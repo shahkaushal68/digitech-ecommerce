@@ -1,0 +1,8 @@
+This is the Node js - Mongodb eCommerce Project.
+
+> Authentication functionality used here
+> Advanced Filtering, sorting, pagination functionaluity used for products find
+> Create tables with Ref table and use Polulate for Ref files
+> Pure Mongo based project with use ref and different mongodb operators 
+> Using Cloudinary and multer configuartion for file Upload
+> Node mailer configuration for send mail
