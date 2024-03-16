@@ -1,5 +1,5 @@
 Node js - Backend Project
 
-Mongodb based database used
-used multer and cloudninary for image uploading
-used node mailer for send mail
+Mongodb-based database used
+used multi and Cloudinary for image uploading
+used node mailer to send mail
